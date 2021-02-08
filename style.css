@@ -165,7 +165,12 @@
 				  color: #ed1846;
 			  
 			  }
-			  .
+			  #bottom_footer{
+				width: 100%;
+				clear: both;
+				height: 75px;
+				background-color: #474747;
+			  }
 			  
 			  a:hover{
 				  color: green;
